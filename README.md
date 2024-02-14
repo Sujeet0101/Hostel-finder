@@ -13,7 +13,7 @@ Backend Implementation:
                           Employed Django Rest Framework to build a robust backend, facilitating efficient data management and API integration.
 
 Search Functionality:
-                        Implemented advanced search functionality based on cosine similarity, providing users with similar hostel suggestions for an enhanced browsing experience.
+                        Implemented advanced search functionality based on cosine similarity, providing users with similar hostel suggestions for an enhanced browsing experience. The datasets were vectorized using TF-IDF, and cosine angles were calculated along with weighted sums to optimize hostel recommendations.
 
 Hostel Details and Booking:
                               Added a feature to view detailed information about hostels, including booking functionality to streamline the user's reservation process.
